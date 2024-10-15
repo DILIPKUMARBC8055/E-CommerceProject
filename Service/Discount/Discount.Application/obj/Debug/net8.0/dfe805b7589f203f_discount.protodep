@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Proto/Discount.cs \
+obj\Debug\net8.0\Proto/DiscountGrpc.cs: Proto/discount.proto

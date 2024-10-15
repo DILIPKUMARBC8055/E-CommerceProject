@@ -1,0 +1,13 @@
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.deps.json
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
+C:\Users\dilip\source\repos\EcommerceApplication\Service\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll

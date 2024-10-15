@@ -1,0 +1,13 @@
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.deps.json
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\bin\Debug\net8.0\Common.Logging.pdb
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.AssemblyReference.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.AssemblyInfo.cs
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.sourcelink.json
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\refint\Common.Logging.dll
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\Common.Logging.pdb
+C:\Users\dilip\source\repos\EcommerceApplication\Infrastructure\Common.Logging\obj\Debug\net8.0\ref\Common.Logging.dll
